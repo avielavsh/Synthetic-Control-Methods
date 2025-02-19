@@ -58,7 +58,7 @@ The project follows an advanced **Dynamic Bayesian Synthetic Control (DBSC)** ap
 
 ## Author
 
-**Aviel Avshalumov, Hamid Ariana, Luis Seco**
+**Aviel Avshalumov, Hamid Arian, Luis Seco**
 
 ## License
 
